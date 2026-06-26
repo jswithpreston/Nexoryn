@@ -1,12 +1,12 @@
 # Nexoryn
 # The official website for Nexoryn — a systems engineering company building intelligent software, cybersecurity solutions, custom operating systems, developer infrastructure, and digital growth platforms.
-=======
+
 
 **Systems Engineering for the Future.**
 
 Nexoryn designs, builds, secures, and scales intelligent digital systems — from custom operating systems and high-frequency trading infrastructure to enterprise web platforms and cybersecurity tooling.
 
-Live site: [nexoryn.com](https://nexoryn.com)
+Live site: [nexoryn.com](https://nexoryn.dev)
 
 ---
 
